@@ -1,3 +1,3 @@
 # Personal-Website-CSS
 
-Simple personal website
+Simple website

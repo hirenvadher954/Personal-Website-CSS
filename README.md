@@ -1,3 +1,3 @@
-# Personal-Website-CSS
+# Personal-Website Made with CSS
 
 Simple website
